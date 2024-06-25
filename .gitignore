@@ -1,0 +1,7 @@
+#
+# This is the .gitignore file for dante-wiki, the master development repository
+#
+
+.DS_Store
+deprecated/
+*.zip
